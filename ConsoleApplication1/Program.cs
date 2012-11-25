@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             System.Console.WriteLine("Let's make some games");
             System.Console.WriteLine("Games are awesome");
+            System.Console.WriteLine("Games games games");
             System.Console.ReadKey();
         }
     }
